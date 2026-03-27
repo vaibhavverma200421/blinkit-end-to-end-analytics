@@ -19,29 +19,32 @@ Sales by Outlet Location — Geographic distribution (Tier 1, 2, 3)
 All Metrics by Outlet Type — Full breakdown across Grocery Store and Supermarket types
 
 
-📂 Repository Structure
-blinkit-analysis/
-│
-├── data/
-│   └── Blinkit_sales_data_Cleaned.csv       # Cleaned dataset (8,523 rows)
-│
-├── sql/
-│   └── blinkit_SQL_data.sql                 # Data cleaning + all KPI queries
-│
-├── python/
-│   └── EDA_With_Python.ipynb                # Full EDA notebook with visualizations
-│
-├── excel/
-│   └── (BlinkIT Grocery Data.xlsx)          # Excel dashboard with slicers
-│
-├── powerbi/
-│   └── Blinkit_dashboard.pbix               # Power BI report file
-│   └── Blinkit_dashboard.pdf                # PDF export of dashboard
-│
-├── presentation/
-│   └── Blinkit_Analysis.pptx                # Project brief & requirements deck
-│
-└── README.md
+## 📂 Repository Structure
+
+```
+blinkit-end-to-end-analytics/
+|
+|-- data/
+|   |-- Blinkit_sales_data_Cleaned.csv      <- Cleaned dataset (8,523 rows)
+|
+|-- sql/
+|   |-- blinkit_SQL_data.sql                <- Data cleaning + all 7 KPI queries
+|
+|-- python/
+|   |-- EDA_With_Python.ipynb               <- Full EDA notebook with visualizations
+|
+|-- excel/
+|   |-- BlinkIT_Grocery_Data.xlsx           <- Excel dashboard with slicers & charts
+|
+|-- powerbi/
+|   |-- Blinkit_dashboard.pbix              <- Power BI report file
+|   |-- Blinkit_dashboard.pdf               <- Exported PDF of the dashboard
+|
+|-- presentation/
+|   |-- Blinkit_Analysis.pptx               <- Project brief & business requirements
+|
+|-- README.md
+```
 
 🔧 Tools & Workflow
 1. 🗄️ SQL — Data Cleaning & KPI Queries
