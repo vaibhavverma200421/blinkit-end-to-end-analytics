@@ -191,13 +191,13 @@ FROM blinkit_sales GROUP BY outlettype ORDER BY 2 DESC;
 ## 📸 Dashboard Previews
 
 ### 📊 Power BI Dashboard
-![Power BI Dashboard](powerbi/1774583055238_Power_Bi_dashboard_photo.png)
+![Power BI Dashboard](powerbi/powerbi_dashboard.png)
 > Interactive filter panel · KPI cards · Donut (fat content) · Bar chart (item types) · Outlet type breakdown table
 
 ---
 
 ### 📗 Excel Dashboard
-![Excel Dashboard](excel/1774583055239_Excel_dashbaord_photo.png)
+![Excel Dashboard](excel/excel_dashboard.png)
 > Dynamic slicers · Pie & bar charts · Line trend · KPI cards — no Power BI license required
 
 ---
