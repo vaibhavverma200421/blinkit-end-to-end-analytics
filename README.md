@@ -8,6 +8,17 @@
 
 ---
 
+## 📸 Dashboard Previews
+
+### 📊 Power BI Dashboard
+[![Power BI Dashboard](Power%20Bi/powerbi_dashboard.png)](Power%20Bi/powerbi_dashboard.png)
+
+---
+
+### 📗 Excel Dashboard
+[![Excel Dashboard](Excel/excel_dashboard.png)](Excel/excel_dashboard.png)
+
+
 ## 📌 Project Overview
 
 This project performs a **comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution** to identify key business insights and optimization opportunities.
